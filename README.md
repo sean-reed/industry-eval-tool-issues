@@ -1,7 +1,7 @@
 
 # Industry Evaluation Tool Issues
 
-This is the central hub for tracking bugs, issues, feedback, and feature requests related to the Industry Evaluation Tool  project. Use the [issues tracker](issues) to report problems and suggest new features, and check there for updates and progress on them.
+This is the central hub for tracking bugs, issues, feedback, and feature requests related to the Industry Evaluation Tool  project. Use the [issues tracker](../../issues) to report problems and suggest new features, and check there for updates and progress on them.
 
 ## How to Report an Issue
 
