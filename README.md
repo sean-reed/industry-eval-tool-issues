@@ -18,3 +18,13 @@ This is the central hub for tracking bugs, issues, feedback, and feature request
 3. Provide a detailed description of the feature you'd like to see added to MyCode.
 4. Include use cases and examples to help illustrate the value of the feature.
 
+## Label System
+
+We use labels to help categorize and prioritize issues and feature requests. Some common labels include:
+
+- `bug`: Issues that represent bugs or unexpected behavior.
+- `enhancement`: Issues that suggest new features or improvements to existing ones.
+- `question`: Issues that are questions or requests for clarification.
+- `feature request`: Requests for new features or improvements to existing ones.
+
+
