@@ -2,7 +2,7 @@
 # Industry Evaluation Tool Issues
 
 This is the central hub for tracking bugs, issues, feedback, and feature requests related to the Industry Evaluation Tool  project. Use the [issues tracker](../../issues) to report problems and suggest new features, and check there for updates and progress on them. You can also check the 
-[changelog](../../CHANGELOG.MD) for the latest changes to the project.
+[changelog](CHANGELOG.md) for the latest changes to the project.
 
 ## How to Report an Issue
 
